@@ -4,7 +4,7 @@
 
 This script is designed to merge and keep up-to-date m3u links collected from public sources.
 
-### Join Our Telegram Channel 
+### Join Telegram For More Update
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+b17D46rrBAw0ZTM1)
 
