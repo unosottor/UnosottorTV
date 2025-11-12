@@ -1,14 +1,13 @@
-name: Auto Update Playlist
+ name: Auto Update Playlist
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   
+    - cron: "*/30 * * * *"   # প্রতি 30 মিনিটে রান করবে (UTC টাইমে)
   workflow_dispatch:         
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write    
 
@@ -38,5 +37,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add playlist.m3u
-          git commit -m "🔁 Force auto-update playlist ($(date '+%Y-%m-%d %H:%M'))" || true
+          git commit -m "🔁 Auto-update playlist ($(date '+%Y-%m-%d %H:%M'))" || echo "No changes"
           git push
