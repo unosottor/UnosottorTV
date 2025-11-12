@@ -6,7 +6,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+b17D46rrBAw0ZTM1)
 
-### Playlist URL 👇
+### Universal Playlist Link 👇
 
 ```bash
 https://raw.githubusercontent.com/unosottor/UnosottorTV/main/playlist.m3u
