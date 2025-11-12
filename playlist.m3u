@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-12 10:48:05
+# Auto-updated on: 2025-11-12 11:19:31
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpbGZ7ZW/1000022431.png" group-title="JOIN TELEGRAM",TOUFIK OP
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -691,6 +691,14 @@ http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/Dual%20Audio/Alienoid%20(Oe
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/English/Tomorrowland%20(2015)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Dors and the Search for Sol Dorado
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/English/Dora%20and%20the%20Search%20for%20Sol%20Dorado%20(2025)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E1)
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E01.mp4
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E2)
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E02.mp4
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E3)
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E03.mp4
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E4)
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E04.mp4
 #EXTINF:-1 tvg-logo="" group-title="Web Series",The Bads of Bollywood(S1E1)
 http://10.16.100.202/ftps10/iccftps10sasd6/Tv%20Show/Hindi/The%20Bads%20of%20Bollywood%20Season%2001%20(2025)%20Completed/The%20Bads%20of%20Bollywood%20S01E01.mp4
 #EXTINF:-1 tvg-logo="" group-title="Web Series",The Bads of Bollywood(S1E2)
