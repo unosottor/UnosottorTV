@@ -8,9 +8,9 @@ OUTFILE = "playlist.m3u"
 # --- Fixed Promo Channel ---
 PROMO_CHANNEL = {
     "name": "TOUFIK OP",
-    "tvg-logo": "https://i.postimg.cc/9f2vHHCw/cropped.png",
+    "tvg-logo": "https://i.postimg.cc/MpbGZ7ZW/1000022431.png",
     "group-title": "JOIN TELEGRAM",
-    "url": "https://cdn.lykstage.com/hls/5/vod/97115/_360p.m3u8"
+    "url": "https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8"
 }
 
 
