@@ -1,10 +1,10 @@
 #EXTM3U
-# Auto-updated on: 2025-11-13 07:40:51
+# Auto-updated on: 2025-11-13 08:29:59
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpbGZ7ZW/1000022431.png" group-title="JOIN TELEGRAM",TOUFIK OP
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Live Sports",Live Sports
-https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011429635_1ta-di_h264/index.m3u8
+https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011457026_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Live Sports",Live Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Live Sports",Live Sports
