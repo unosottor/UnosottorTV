@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-13 07:21:43
+# Auto-updated on: 2025-11-13 07:40:51
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpbGZ7ZW/1000022431.png" group-title="JOIN TELEGRAM",TOUFIK OP
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -63,6 +63,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 https://tvsen7.aynascope.net/ntveurope/index.m3u8?e=1762417941&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=dc641a6727077995471bc652932cbf91
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangla",RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1762417690&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=5fb1af49f7b30fb9e41d03d9884f0f6c
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Channels",RTV
+https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1763025582&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5f4fd86e81269ca9ef9e4c4d753904f3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Bangla",SATV
 https://tvsen6.aynascope.net/satv/index.m3u8?e=1762417732&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=67405229daea746bf3fd66bc213634bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangla",Deepto TV
