@@ -29,13 +29,13 @@ def read_m3u(source):
             resp = requests.get(source, timeout=12)
             resp.raise_for_status()
             content = resp.text
-            print(f"✅ Loaded playlist: {source}")
+            print(f"Loaded playlist: {source}")
         else:
             with open(source, "r", encoding="utf-8", errors="ignore") as f:
                 content = f.read()
-                print(f"✅ Loaded local file: {source}")
+                print(f"Loaded local file: {source}")
     except Exception as e:
-        print(f"⚠️ Skipped broken playlist: {source} ({e})")
+        print(f" Skipped broken playlist: {source} ({e})")
         return []
 
     lines = content.strip().splitlines()
@@ -62,9 +62,16 @@ def read_m3u(source):
 
 
 def combine_playlists(urls):
-    """Combine playlists smartly — skip duplicates but keep unique links"""
+    """Combine playlists smartly — auto sports logo + skip duplicates"""
     combined = []
     seen_names = {}  # name -> set(urls)
+
+    SPORTS_LOGO = "https://i.postimg.cc/rwbHWYY7/livesports.png"
+
+    SPORTS_KEYWORDS = [
+        "sports", "live sports", "sport",
+        "football", "footbol", "foot ball"
+    ]
 
     for src in urls:
         if not src:
@@ -74,17 +81,25 @@ def combine_playlists(urls):
             continue
 
         for ch in playlist:
-            name = ch["name"].strip().lower()
+            original_name = ch["name"].strip()
+            name_lower = original_name.lower()
             url = ch["url"].strip()
 
-            
-            if name in seen_names:
-                if url not in seen_names[name]:
-                    seen_names[name].add(url)
+
+            if not ch["tvg-logo"] or ch["tvg-logo"].strip() == "":
+                if any(word in name_lower for word in SPORTS_KEYWORDS):
+                    ch["tvg-logo"] = SPORTS_LOGO
+
+            key = name_lower
+
+            if key in seen_names:
+                if url not in seen_names[key]:
+                    seen_names[key].add(url)
                     combined.append(ch)
             else:
-                seen_names[name] = {url}
+                seen_names[key] = {url}
                 combined.append(ch)
+
     return combined
 
 
@@ -102,7 +117,7 @@ def write_playlist(channels, promo, output_file):
             f.write(f'#EXTINF:-1 tvg-logo="{ch["tvg-logo"]}" group-title="{ch["group-title"]}",{ch["name"]}\n')
             f.write(f'{ch["url"]}\n')
 
-    print(f"✅ playlist.m3u generated successfully ({len(channels) + 1} channels total)")
+    print(f" playlist.m3u generated successfully ({len(channels) + 1} channels total)")
 
 
 def main():
@@ -114,12 +129,12 @@ def main():
     urls = [u for u in urls if u]
 
     if not urls:
-        print("❌ No playlist URLs found in environment variables!")
+        print("")
         return
 
     merged = combine_playlists(urls)
     if not merged:
-        print("❌ No valid channels found in provided playlists!")
+        print("")
         return
 
     write_playlist(merged, PROMO_CHANNEL, OUTFILE)
