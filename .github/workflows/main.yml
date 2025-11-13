@@ -1,8 +1,8 @@
-name: Auto Update Playlist
+name: Auto Update Playlist V1
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # প্রতি 30 মিনিটে রান করবে (UTC টাইমে)
+    - cron: "*/30 * * * *"   
   workflow_dispatch:         
 
 jobs:
