@@ -70,7 +70,7 @@ def combine_playlists(urls):
 
     SPORTS_KEYWORDS = [
         "sports", "live sports", "sport",
-        "football", "footbol", "foot ball"
+        "football", "footbol", "football", "cricket"
     ]
 
     for src in urls:
