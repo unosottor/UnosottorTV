@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-18 16:30:58
+# Auto-updated on: 2025-11-18 17:20:49
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -237,8 +237,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",N TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="LiveTv",MY TV HD
-https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ETV TV
@@ -285,6 +283,8 @@ https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Alkass Two (720p)
 https://Streamer3.qna.org.qa:443/148164528_live/148164528_296.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",CBS Sports HQ
@@ -357,6 +357,8 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 tvg-logo="" group-title="Sports",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHRA TV (720p)
@@ -449,6 +451,12 @@ https://stream.spicefmbd.com/stream.m3u8
 http://103.135.132.54:88/tsportshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",Willow-Sports-HD 📺 🇧🇩
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",T-Sports-HD 📺 🇧🇩
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sony-Ten-2-HD 📺
+http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sony-Ten-5-HD 📺
+http://103.240.44.26/Sony-Ten-5-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",PTV Sports HD 📺  📺
 http://cors.tundracast.com:2000/http://163.172.57.3/crc1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",Pro Sports 1 📺  📺
@@ -465,12 +473,18 @@ https://starsportshindiii.pages.dev/720p.m3u8
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",NZ_sky_Sport_2 📺
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",Astro Cricket Sports HD 🇲🇾 📺
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Fox 501 HD 📺
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Fox 501 HD 📺
 https://foxenglish.pages.dev/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",Astro Cricket HD 📺 🎯
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",T Sports HD 🇧🇩 📺
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Geo Super HD 🇵🇰 📺
+http://103.240.44.26/GEO-Super/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",T Sports HD 🇧🇩 📺
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",Sky Sports Premier League 📺
@@ -685,6 +699,8 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg" group-title="Kids",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick
@@ -707,6 +723,8 @@ http://fl1.moveonjoy.com/Destination_America/index.m3u8
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISCOVERY LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISNEY JR
+http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Wild Nature
@@ -739,6 +757,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NEWS INTERNASIONAL",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
@@ -839,6 +859,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg" group-title="BANGLA",Channel 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
+https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA",Me-tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA",Jankhar tv
