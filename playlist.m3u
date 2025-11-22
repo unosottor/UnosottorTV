@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-22 07:37:59
+# Auto-updated on: 2025-11-22 08:27:17
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -441,8 +441,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TSN2
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",TSN3
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TSN4
 https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TSN5
@@ -471,8 +469,6 @@ https://stream.spicefmbd.com/stream.m3u8
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",T-Sports-HD 📺 🇧🇩
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sony-Ten-1-HD 📺
-http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sony-Ten-2-HD 📺
 http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sony-Ten-5-HD 📺
@@ -771,8 +767,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NEWS INTERNASIONAL",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
