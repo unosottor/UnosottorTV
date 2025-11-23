@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-23 18:29:59
+# Auto-updated on: 2025-11-23 18:49:58
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -73,8 +73,6 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 https://nettv.fun/jh/stream.php?id=Syn_Colors_Bangla_Cinema&sr=Fallback&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" group-title="Indian Bangla News",ABP Ananda
@@ -99,6 +97,8 @@ https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexHD&sr=JCHLS&e=.m3u8
 https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexBollywood&sr=JCHLS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png" group-title="Hindi Movies",Colors Cineplex Superhit
 https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexSuperhit&sr=JCHLS&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Hindi Movies",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Hindi Movies",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
@@ -229,6 +229,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Shananda Movie
@@ -667,6 +669,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg" group-title="Kids",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Disney Junior
+https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick
@@ -677,8 +681,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ISLAMIC CHANNELS",মক্কা টিভি হজের জন্য
-http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Channel
