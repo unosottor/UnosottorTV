@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-24 18:33:47
+# Auto-updated on: 2025-11-24 19:16:08
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -447,6 +447,8 @@ http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",Star Sports 1 Hindi 🇮🇳📺
 https://starsportshindiii.pages.dev/720p.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sandbrix live 🏏SL🆚Pak🏏 One Day Mtach 📺
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",NZ_sky_Sport_2 📺
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Fox 501 HD 📺
