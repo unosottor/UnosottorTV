@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-28 04:48:05
+# Auto-updated on: 2025-11-28 05:23:20
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -161,6 +161,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="KIDS",Nick
 https://nettv.fun/jh/stream.php?id=JC_NickSD&sr=JCHLS&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="KIDS",Nick HD Plus
+https://nettv.fun/jh/stream.php?id=JC_NickHD&sr=JCHLS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png" group-title="KIDS",Sonic Bangla
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="KIDS",Zoo Moo
@@ -337,6 +339,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",KCMN-LD6 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",KHL Prime
+http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",L1 Max (1080p)
 http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",L'Equipe (1080p)
@@ -709,6 +713,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NEWS INTERNASIONAL",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
