@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-11-30 21:39:10
+# Auto-updated on: 2025-11-30 22:20:49
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -243,8 +243,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",ETV TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Me-টিভি
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",US-BD Journal 24 TV
@@ -553,8 +551,6 @@ https://bozztv.com/rongo/rongo-ATNBangla/tracks-v1a1/mono.m3u8
 https://bozztv.com/rongo/rongo-BanglaTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi 🇧🇩",BanglaVision
 https://bozztv.com/rongo/rongo-BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangladeshi 🇧🇩",BijoyTV
-https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi 🇧🇩",Channel 24 HD
 https://bozztv.com/rongo/rongo-Channel24HD/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi 🇧🇩",Channel 9
