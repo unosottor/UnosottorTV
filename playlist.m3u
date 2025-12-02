@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-12-02 13:38:28
+# Auto-updated on: 2025-12-02 14:26:07
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -463,6 +463,8 @@ https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",True Football 7 HD Thailand
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Mutv Football
+https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",FIFA+
