@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-12-06 11:17:44
+# Auto-updated on: 2025-12-06 11:38:11
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -455,8 +455,6 @@ https://starsportshindiii.pages.dev/720p.m3u8
 http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sandbrix 📺
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",TNT Sports 1 🎯 📡
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",TNT Sports 2 🎯 📡
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",TNT Sports 3 🎯 📡
