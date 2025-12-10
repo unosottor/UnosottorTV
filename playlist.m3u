@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-12-10 16:31:29
+# Auto-updated on: 2025-12-10 17:25:43
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -309,14 +309,14 @@ https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",FTV
+https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Fubo Sports Network (1080p) [Geo-blocked]
 https://livetv-fa.tubi.video/fubo/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FUEL TV (1080p)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Game+ (720p)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",GEM Fit
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Geo Super (1080p)
 http://116.90.120.149:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Glory Kickboxing
@@ -479,8 +479,6 @@ https://starsportshindiii.pages.dev/720p.m3u8
 http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Sandbrix 📺
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",TNT Sports 1 🎯 📡
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",TNT Sports 2 🎯 📡
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Cricket 🏏",TNT Sports 3 🎯 📡
@@ -645,8 +643,6 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ISLAMIC CHANNELS",মক্কা টিভি হজের জন্য
-http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ISLAMIC CHANNELS",Sunnah Tv
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Destination America
