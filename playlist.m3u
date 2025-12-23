@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-12-23 20:26:10
+# Auto-updated on: 2025-12-23 20:45:08
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -239,6 +239,8 @@ https://tvsen5.aynaott.com/disneyxd/index.m3u8
 https://tvsen7.aynaott.com/disneyjr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Disney
 https://tvsen5.aynaott.com/disney/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Family Jr
+https://tvsen5.aynaott.com/familyjr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Kids
@@ -279,10 +281,6 @@ https://tvsen7.aynaott.com/R_Bangla/index.m3u8
 https://tvsen6.aynaott.com/NewsTime/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Laff
 https://tvsen7.aynaott.com/laff/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",Star Sports 1 HD
-https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony Ten  1 HD
 https://tvsen5.aynaott.com/snTn1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",Ptv Sports HD
