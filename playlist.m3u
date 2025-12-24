@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-12-24 08:33:06
+# Auto-updated on: 2025-12-24 09:27:01
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -237,24 +237,16 @@ https://tvsen6.aynaott.com/ytv/index.m3u8
 https://tvsen7.aynaott.com/nicklodean/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Disney XD
 https://tvsen5.aynaott.com/disneyxd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Disney Jr
-https://tvsen7.aynaott.com/disneyjr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Disney
-https://tvsen5.aynaott.com/disney/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Family Jr
 https://tvsen5.aynaott.com/familyjr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Discovery Kids
-https://tvsen5.aynaott.com/universalkids/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Rongeen Tv
 https://tvsen5.aynaott.com/RongeenTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CNBC
 https://tvsen6.aynaott.com/cnbc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MSNBC
-https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sky Nature
 https://tvsen6.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AXS TV
@@ -397,8 +389,6 @@ https://tvsen6.aynaott.com/foodnetwork/index.m3u8
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Cooking Tv
 https://tvsen7.aynaott.com/cooking/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PIX 11
-https://tvsen6.aynaott.com/pix11/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FX TV
 https://tvsen7.aynaott.com/fx/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Dhamaka Movies
@@ -409,8 +399,6 @@ https://tvsen5.aynaott.com/B4UHitz/index.m3u8
 https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Goldmines Bollywood
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Goldmines
-https://tvsen6.aynaott.com/Goldmines/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Utsav Gold
 http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Peace Tv Bangla
@@ -441,8 +429,6 @@ http://178.33.239.54:8080/511/index.m3u8
 http://dvr1.kablova.tv/M4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",T SPORTS HD
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",TEN SPORTS HD
-http://66.102.120.18:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",PTV SPORTS HD
 http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",EURO SPORTS HD
@@ -587,6 +573,8 @@ http://119.152.240.15:8000/play/a0ke/index.m3u8
 http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",National Geographic
+http://163.61.227.29:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SONY BBC EARTH
 http://119.152.240.15:8000/play/a0bm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Animal Planet
@@ -649,6 +637,8 @@ http://202.164.50.194:8000/play/a00h/index.m3u8
 http://163.61.227.29:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PLANET FUN
 http://163.61.227.29:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GUBBARE
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi
@@ -921,6 +911,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
