@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-12-24 20:25:38
+# Auto-updated on: 2025-12-24 20:44:27
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -407,6 +407,8 @@ https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Utsav Gold
+http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Peace Tv Bangla
 https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Peace Tv
