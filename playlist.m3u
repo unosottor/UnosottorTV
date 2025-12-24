@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2025-12-24 18:33:50
+# Auto-updated on: 2025-12-24 19:18:17
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -237,8 +237,6 @@ https://tvsen5.aynaott.com/disney/index.m3u8
 https://tvsen5.aynaott.com/familyjr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Discovery Kids
-https://tvsen5.aynaott.com/universalkids/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Rongeen Tv
 https://tvsen5.aynaott.com/RongeenTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CNN
@@ -255,6 +253,8 @@ https://tvsen6.aynaott.com/axs/index.m3u8
 https://tvsen6.aynaott.com/bbcnews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sky NEWS
 https://tvsen5.aynaott.com/skynews/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FOX NEWS
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CP24
 https://tvsen6.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Bharat 24
@@ -447,6 +447,8 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AND PICTURES HD
 http://119.152.240.15:8000/play/a0h7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AND XPLOR HD
+http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Colors Cineplex Superhits
 http://163.61.227.29:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO
@@ -567,6 +569,8 @@ http://163.61.227.29:8000/play/a03l/index.m3u8
 http://163.61.227.29:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
 http://163.61.227.29:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
+http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",INVESTIGATION DISCOVERY
 http://119.152.240.15:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
@@ -589,8 +593,6 @@ http://163.61.227.29:8000/play/a02v/index.m3u8
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Tara Cinema Bangla
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Padma Tv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ENTER10 BANGLA
 https://cdn-4.pishow.tv/live/241/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",9X JALWA
@@ -677,10 +679,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ETV TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Me-টিভি
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg" group-title="Live Tv",Aamar Bangla (720p)
-https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",US-BD Journal 24 TV
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NATIONAL GEOGRAPHI
@@ -899,6 +897,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
