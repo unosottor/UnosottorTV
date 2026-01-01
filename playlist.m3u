@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2026-01-01 14:45:20
+# Auto-updated on: 2026-01-01 15:24:41
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -257,8 +257,6 @@ http://66.102.120.18:8000/play/a01s/index.m3u8
 http://163.61.227.29:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Epic
 http://epiconvh.akamaized.net/live/epic/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SONY MAX
-http://66.102.120.18:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ARY MUSIK
 http://163.61.227.29:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FILMAX
