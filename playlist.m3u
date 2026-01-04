@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2026-01-04 05:01:56
+# Auto-updated on: 2026-01-04 05:48:38
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -223,6 +223,8 @@ http://dvr1.kablova.tv/M4/index.m3u8
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",PTV SPORTS HD
 http://163.61.227.29:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="",EURO SPORTS HD
+http://84.54.128.52:9090/play/4003/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Makka TV
@@ -245,6 +247,8 @@ http://200.80.230.124:8000/play/a06p/index.m3u8
 http://200.80.230.124:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://185.18.56.26:8888/axn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AXN BLACK
+http://84.54.128.52:9090/play/1008/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",LOTUS MACAU
 http://163.61.227.29:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AAN TV
@@ -289,6 +293,8 @@ http://163.61.227.29:8000/play/a03e/index.m3u8
 http://163.61.227.29:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hi Dost!
+https://mumt03.tangotv.in/HIDOST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Express HD
 http://163.61.227.29:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A plus
@@ -519,8 +525,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",BBC Cbeebies
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg" group-title="Kids",Discovery Kids
-https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",Nick
