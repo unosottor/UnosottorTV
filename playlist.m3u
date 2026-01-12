@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2026-01-12 19:22:22
+# Auto-updated on: 2026-01-12 19:42:17
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -369,6 +369,8 @@ http://163.61.227.29:8000/play/a03w/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi
+http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="Islamic",Makka live
@@ -381,8 +383,6 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",ETV TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",US-BD Journal 24 TV
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NATIONAL GEOGRAPHI
@@ -449,8 +449,6 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Sharjah Sports 🎯
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Bein Sports 1 True Vision 🎯
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",PRO Sport International �
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Russia Football 1 HD
@@ -597,6 +595,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="NEWS INTERNASIONAL",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
