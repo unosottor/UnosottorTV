@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2026-02-03 21:02:39
+# Auto-updated on: 2026-02-03 21:58:23
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -167,6 +167,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="KIDS",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="KIDS",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="KIDS",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Rongeen TV
@@ -301,8 +303,6 @@ http://163.61.227.29:8000/play/a02v/index.m3u8
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Tara Cinema Bangla
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Padma Tv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ENTER10 BANGLA
 https://cdn-4.pishow.tv/live/241/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PTV HOME
@@ -447,8 +447,6 @@ https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi 🇧🇩",DBC টিভি 🇧🇩
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangladeshi 🇧🇩",pcv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi 🇧🇩",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Gopal Bhar
