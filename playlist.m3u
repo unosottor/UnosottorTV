@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2026-02-17 08:05:10
+# Auto-updated on: 2026-02-17 09:12:08
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -257,8 +257,6 @@ http://163.61.227.29:8000/play/a03c/index.m3u8
 http://163.61.227.29:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",VENUS ENTERTAINMENT
 http://163.61.227.29:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Dangal
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Dangal 2
 http://163.61.227.29:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Hi Dost!
@@ -319,6 +317,8 @@ http://163.61.227.29:8000/play/a03w/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi
+http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="Islamic",Makka live
@@ -333,8 +333,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Me-টিভি
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",US-BD Journal 24 TV
-http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Histoire HD
@@ -389,10 +387,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Sky Sports 1
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Astro SPORTS Primier
-http://107.175.220.4:11799/go_assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",ASTRO SPORTS PLUS
-http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",NOW SPORTS PRIME
 http://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",MuxIP-SportsFirst TV🎯
