@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated on: 2026-03-12 15:31:16
+# Auto-updated on: 2026-03-12 17:00:17
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvzz5Pt4/joinus.png" group-title="JOIN TELEGRAM",HOME CHANNEL
 https://raw.githubusercontent.com/unosottor/unosottor.github.io/refs/heads/main/notice/index.m3u8
@@ -357,8 +357,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Madina live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Peace tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Mizanur Rahman Ajhari
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ISLAMIC CHANNELS",Noor Tv
@@ -559,6 +557,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-logo="" group-title="English News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",SRK TV
